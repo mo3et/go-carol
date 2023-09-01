@@ -1,0 +1,14 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {},
+    "ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {},
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+    "ghcr.io/withfig/features/fig:1": {},
+    "ghcr.io/lee-orr/rusty-dev-containers/zellij:0": {},
+    "ghcr.io/devcontainers-contrib/features/zsh-plugins:0": {},
+    "ghcr.io/devcontainers/features/go:1": {},
+    
+    
+  }
+}
